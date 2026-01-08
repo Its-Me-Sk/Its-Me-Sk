@@ -1,132 +1,100 @@
 <div align="center">
 
-<h1 style="color:#1f6feb;">Hi, I'm Shimanto Khan (Sk) 🚀</h1>
+<h1 style="color:#1f6feb;">Shimanto Khan</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+AI+Enthusiast;Data+Science+%7C+SQL+%7C+Analytics;Turning+Data+into+Real+World+Insights+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shimanto+Khan+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A7%A0;Data+Science+%7C+SQL+%7C+Analytics;Exploring+Intelligence+Through+Data+%E2%9C%A8" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Its-Me-Sk&label=Profile%20Views&color=00d9ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Its-Me-Sk?style=for-the-badge&color=00d9ff"/>
+  <img src="https://komarev.com/ghpvc/?username=Its-Me-Sk&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Its-Me-Sk?style=for-the-badge&color=00d9ff" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-- **Name:** Shimanto Khan (Sk)  
-- **University:** BRAC University  
-- **Location:** Dhaka, Bangladesh 🇧🇩  
-- **Primary Focus:**  
-  - Machine Learning  
-  - Artificial Intelligence  
-  - Data Science  
-  - SQL & Databases  
-
-> I focus on **data-driven problem solving**, building ML models, and extracting meaningful insights — not backend development.
-
----
-
-## 🎯 Career Objective
-
-To grow as a **Machine Learning / Data Science professional**, working on real-world problems involving **data analysis, predictive modeling, and AI-driven decision making**, while continuously improving my technical depth.
-
----
-
-## 🧠 Core Technical Skills
+## 🧬 About Me
 
 <div align="center">
 
-### Programming & Query Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-### Machine Learning & AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
-### Data Science Libraries
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+**Shimanto Khan (Sk)**  
+BRAC University  
+Dhaka, Bangladesh 🇧🇩  
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=jupyter,linux,git,github" />
+Machine Learning • AI • Data Science
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280"/>
+
+**Python • SQL • Machine Learning**  
+Turning data into intelligence 🚀
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 Data Analysis & Visualization
+## 🧪 Currently Learning
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>
+<table>
+<tr>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/><br>Advanced ML</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70"/><br>Deep Learning</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/><br>Computer Vision</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/><br>SQL Analytics</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧪 Machine Learning Workflow
+## 🧠 Tech Stack
 
-- 🔹 Data Collection & Cleaning  
-- 🔹 Exploratory Data Analysis (EDA)  
-- 🔹 Feature Engineering  
-- 🔹 Model Selection & Training  
-- 🔹 Model Evaluation & Optimization  
-- 🔹 Visualization & Insight Generation  
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas" />
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
 
-## 📚 Currently Learning
-
-- Advanced Machine Learning Algorithms  
-- Deep Learning Architectures  
-- Computer Vision Fundamentals  
-- SQL Optimization & Query Performance  
-- Model Evaluation Techniques  
+</div>
 
 ---
 
-## 🔬 Current Focus Projects
-
-- 📊 **Data Analysis & Visualization Dashboards**
-- 🤖 **ML Models for Prediction & Classification**
-- 🧠 **Computer Vision Based Systems**
-- 🗃️ **SQL-driven Analytics Projects**
-
----
-
-## 🏆 Achievements & Activities
-
-- 🧩 Regular **LeetCode problem solving**
-- 📈 Participating in **Kaggle competitions**
-- 📚 Academic ML & Data Science projects
-- 🌱 Continuous learning & skill building  
-
-*(This section will grow over time)*
-
----
-
-## 📈 GitHub Analytics
+## 📈 Daily Contributions
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Its-Me-Sk&theme=react&hide_border=true"/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Me-Sk&theme=react"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=Its-Me-Sk&theme=react&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Its-Me-Sk&theme=react" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<a href="https://github.com/Its-Me-Sk">
-  <img src="https://img.shields.io/badge/View%20My%20Projects-ML%20%26%20Data-00d9ff?style=for-the-badge"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -138,20 +106,15 @@ To grow as a **Machine Learning / Data Science professional**, working on real-w
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/Asef.Ahmed.Shimanto.Khan)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Its-Me-Sk)
 
+📧 **Academic:** asef.ahmed.shimanto@g.bracu.ac.bd  
+📧 **Personal:** itsmeshiamntokhan@gmail.com
+
 </div>
-
----
-
-## 📬 Contact
-
-- **Professional:** asef.ahmed.shimanto@g.bracu.ac.bd  
-- **Personal:** itsmeshiamntokhan@gmail.com  
 
 ---
 
 <div align="center">
 
-✨ *Focused on Data • Driven by AI*  
-Thanks for visiting 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Building%20with%20Data&fontSize=28"/>
 
 </div>
