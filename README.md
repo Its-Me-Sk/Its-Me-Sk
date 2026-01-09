@@ -1,15 +1,18 @@
 <div align="center">
 
-<h1 style="color:#1f6feb;">Shimanto Khan</h1>
+<!-- ⚡ RA.ONE STYLE ELECTRIC NAME BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff003c,50:00d9ff,100:1f6feb&height=230&section=header&text=SHIMANTO%20KHAN&fontSize=62&fontColor=ffffff&animation=fadeIn&stroke=00d9ff&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Shimanto+Khan+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A7%A0;Data+Science+%7C+SQL+%7C+Analytics;Exploring+Intelligence+Through+Data+%E2%9C%A8" />
+<!-- ⚡ SCI-FI GLITCH TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2400&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=THE+DIGITAL+ENTITY+⚡;Machine+Learning+%26+AI+Enthusiast;Data+Science+%7C+SQL+%7C+Analytics;Exploring+Intelligence+Through+Data+🚀" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Its-Me-Sk&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Its-Me-Sk?style=for-the-badge&color=00d9ff" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<!-- ⚡ ENERGY / LIGHTNING EFFECT -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="820">
 
 </div>
 
@@ -38,7 +41,7 @@ Machine Learning • AI • Data Science
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280"/>
 
 **Python • SQL • Machine Learning**  
-Turning data into intelligence 🚀
+Turning data into intelligence ⚡
 
 </td>
 </tr>
@@ -115,6 +118,6 @@ Turning data into intelligence 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Building%20with%20Data&fontSize=28"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=KEEP%20BUILDING%20WITH%20DATA&fontSize=28"/>
 
 </div>
